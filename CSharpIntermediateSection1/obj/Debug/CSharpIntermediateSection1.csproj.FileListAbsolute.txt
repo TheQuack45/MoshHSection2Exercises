@@ -1,0 +1,5 @@
+E:\Visual Studio 2017\Projects\CSharpIntermediateSection1\CSharpIntermediateSection1\bin\Debug\CSharpIntermediateSection1.exe
+E:\Visual Studio 2017\Projects\CSharpIntermediateSection1\CSharpIntermediateSection1\bin\Debug\CSharpIntermediateSection1.pdb
+E:\Visual Studio 2017\Projects\CSharpIntermediateSection1\CSharpIntermediateSection1\obj\Debug\CSharpIntermediateSection1.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2017\Projects\CSharpIntermediateSection1\CSharpIntermediateSection1\obj\Debug\CSharpIntermediateSection1.exe
+E:\Visual Studio 2017\Projects\CSharpIntermediateSection1\CSharpIntermediateSection1\obj\Debug\CSharpIntermediateSection1.pdb
